@@ -22,7 +22,7 @@ public:
         return a * b;
     }
 
-    Lingkaran ol;
+    Lingkaran ol ;
 
 };
 
